@@ -11,7 +11,7 @@ reddit = praw.Reddit(
 )
 
 i = 1
-for submission in reddit.subreddit("all").search("praw").hot(limit=50):
+for submission in reddit.subreddit("all").hot(limit=50):
     print(i, " ", submission.title)
     i+=1
 

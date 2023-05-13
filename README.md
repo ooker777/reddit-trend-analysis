@@ -10,7 +10,7 @@ Chọn Terminal (hoặc Command Prompt nếu không có Terminal)
 Sau khi bật được PowerShell, copy từng dòng sau vào và bấm enter:
 
 ```PowerShell
-winget install git -source
+winget install git.git -source
 winget install python
 ```
 
