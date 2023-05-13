@@ -8,8 +8,8 @@ Khởi động lại máy
 
 # Tải code
 ```PowerShell
-git clone 
-cd 
+git clone https://github.com/ooker777/reddit-trend-analysis/
+cd reddit-trend-analysis
 ```
 
 # Cài các thư viện cần thiết
